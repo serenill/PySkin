@@ -27,7 +27,7 @@ Until the moment, the library will only works on Windows, because it use Windows
 
 __PySkin__ will be the core of __EntwineDesk__, an open-source software that I'll develop soon. This software allows you tu use all __PySkin's__ features without knowing Python. Instead, the software has an intuitive GUI with buttons linked to essencial __desktop customization's__ task. Thus, we get a simple GUI to make powerful customization by clicks, and the logic behind all of this is __PySkin__.
 
-If you want to contribute, feel free to write code for any of the features described in this document or any new one you consider relevant to __desktop customization__ and then make a pull request. In this repository, you'll find the file __CONTRIBUTING.md__, wich contains an entire and detailed explication about how to contribute to this project.
+If you want to contribute, feel free to write code for any of the features described in this document or any new one you consider relevant to __desktop customization__ and then make a pull request. In this repository, you'll find the file __CONTRIBUITING.md__, wich contains an entire and detailed explication about how to contribute to this project.
 
 __Also, you can support making "Star"__ ❤️
 
