@@ -9,7 +9,7 @@ The idea behind this proyect is to offer a flexible and easy to use interface fo
 
 ## Roadmap 📅
 
-__PySkin__ is a software in development. I'll update this repository and this document with the changes according to my job. I'll submit here too library's requeriments, documentation, user's guide and demostrations as soon as the project is done. 
+__PySkin__ is a software in development. I'll update this repository and this document with the changes according to my job. I'll submit here library's requeriments, documentation, user's guide and demostrations too, as soon as the project is done. 
 
 I'll develop the __main logic__ of the library. This is:
 
