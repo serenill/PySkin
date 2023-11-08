@@ -13,12 +13,23 @@ __PySkin__ is a software in development. I'll update this repository and this do
 
 I'll develop the __main logic__ of the library. This is:
 
-  . Widget's structure
-  . Function to customize widgets (adding text, dinamic information, images or colors).
-  . Function to customize widget's text (controlling font and position of texts).
-  . Function to customize widget's form (controlling widget's shape, size and position on desktop).
-  . Function to control widgets presence (controlling show, hide or delete widgets).
-  . Function to add local links to widgets.
-  . Function to add interactivity to widgets (dinamic responses to mouse and keyboard's events and a way to configure them).
-  . Function to customize task bar (controlling task bar position and icons's shape, size).
-  . Function to control background music's reproduction.
+  - Widget's structure
+  - Function to customize widgets (adding text, dinamic information, images or colors)
+  - Function to customize widget's text (controlling font and position of texts)
+  - Function to customize widget's form (controlling widget's shape, size and position on desktop)
+  - Function to control widgets presence (show, hide or delete widgets)
+  - Function to add local links to widgets
+  - Function to add interactivity to widgets (dinamic responses to mouse and keyboard's events and a way to configure them)
+  - Function to customize task bar (controlling task bar position and icons's shape, size)
+  - Function to control background music's reproduction
+
+Until the moment, the library will only works on Windows, because it use Windows's API. However, I'll consider to develop MacOS and Linux versions in a future.
+
+__PySkin__ will be the core of __EntwineDesk__, an open-source software that I'll develop soon. This software allows you tu use all __PySkin's__ features without knowing Python. Instead, the software has an intuitive GUI with buttons linked to essencial __desktop customization's__ task. Thus, we get a simple GUI to make powerful customization by clicks, and the logic behind all of this is __PySkin__.
+
+If you want to contribute, feel free to write code for any of the features described in this document or any new one you consider relevant to __desktop customization__ and then make a pull request. In this repository, you'll find the file __CONTRIBUTING.md__, wich contains an entire and detailed explication about how to contribute to this project.
+
+__Also, you can support making "Star"__ ❤️
+
+
+
