@@ -3,7 +3,7 @@ A powerful tool to personalize your desktop using Python.
 
 ## Overview 📃
 
-__PySkin__ is a Python library that allows you to create widgets and show them in your desktop. The widgets are highly customizables. The user can add text, images, interactivity, colors and dinamic information to widgets throught the library and its methods. Also, he can resize, reshape and position them too, just like control wich widgets show, hide or delete. __PySkin__ will have other important functionalities related to __desktop customization__, such as task bar customization and controlling background music's reproduction.
+__PySkin__ is a Python library that allows you to create widgets and show them in your desktop. The widgets are highly customizables. The user can add text, images, interactivity, colors and dinamic information to widgets throught the library and its methods. Also, he can resize, reshape and position them, as control wich widgets show, hide or delete. __PySkin__ will have other important functionalities related to __desktop customization__, such as task bar customization and controlling background music's reproduction.
 
 The idea behind this proyect is to offer a flexible and easy to use interface for __desktop customization__. Thus, every user with experiencie in Python could personalize his desktop without too much complication or third-party softwares. 
 
